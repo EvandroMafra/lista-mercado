@@ -1,0 +1,61 @@
+body {
+    background-image: url(../19-exercicio-lista-compras/imagem/mercado.png) ;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    
+    
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    background-color: rgba(240, 221, 2, 0.576);
+    text-align: center;
+    padding: 10px;
+    border-bottom: solid rgba(0, 0, 0, 0.103);
+    
+    
+}
+
+ul {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: rgba(255, 255, 255, 0.439);
+    border-bottom: solid rgba(0, 0, 0, 0.057);
+    padding: 40px 10px 10px 10px;
+    display: flex;
+    
+    justify-content: center;
+    align-content: center;
+    box-shadow: rgba(100, 100, 111, 0.483) 0px 7px 39px 0px;
+    margin-top: 60px;
+    
+    
+    
+}
+
+p {
+    font-weight: bolder;
+    color: rgb(229, 4, 4);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 25px;
+    text-align: center;
+    text-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0pxblack 20px;
+}
+
+img {
+    width: 230px;
+    height: 230px;
+    padding: 8px;
+}   
+
+h2 {
+    text-align: center;
+    background-color: rgba(255, 225, 0, 0.734);
+    padding: 8px;
+    margin: 8px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    
+    
+    
+}
